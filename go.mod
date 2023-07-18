@@ -3,17 +3,17 @@ module github.com/henrybear327/Mail-Sending
 go 1.20
 
 require (
-	github.com/henrybear327/Proton-API-Bridge v0.0.0-20230716195644-25afa26ed53e
-	github.com/henrybear327/go-proton-api v0.0.0-20230713211354-02be61689e29
+	github.com/henrybear327/Proton-API-Bridge v0.0.0-20230718212723-a33d554f7033
+	github.com/henrybear327/go-proton-api v0.0.0-20230717103708-031d819d74ab
 )
 
 require (
 	github.com/ProtonMail/bcrypt v0.0.0-20211005172633-e235017c1baf // indirect
 	github.com/ProtonMail/gluon v0.17.0 // indirect
-	github.com/ProtonMail/go-crypto v0.0.0-20230710112148-e01326fd72eb // indirect
+	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f // indirect
 	github.com/ProtonMail/go-srp v0.0.7 // indirect
-	github.com/ProtonMail/gopenpgp/v2 v2.7.1 // indirect
+	github.com/ProtonMail/gopenpgp/v2 v2.7.2 // indirect
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/bradenaw/juniper v0.13.1 // indirect
